@@ -25,4 +25,5 @@ public class CountryController {
         model.addAttribute("countries", countries);
         return "countries";
     }
+    //Add a new endpoint at some point
 }
